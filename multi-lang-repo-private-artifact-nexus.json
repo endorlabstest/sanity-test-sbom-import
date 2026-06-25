@@ -8045,7 +8045,6 @@
     {
       "name": "multi-lang-repo-private-artifact-nexus",
       "SPDXID": "SPDXRef-DocumentRoot-multi-lang-repo-private-artifact-nexus",
-      "versionInfo": "1",
       "supplier": "NOASSERTION",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
